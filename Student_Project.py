@@ -8,7 +8,7 @@ while length <= :#Write the condition
         #Write the line for moving the turtle forward by passing length as a variable
         turtle.right(89)
         length += 0.5
-        break
+        #write the break statement to exit this for loop
     #Write the line for pen color
     #Write the line for moving the turtle forward by passing length as a variable
     turtle.right(89)
